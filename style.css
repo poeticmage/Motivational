@@ -1,0 +1,36 @@
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+h2{
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 100;
+    color: white;
+    background: local;
+    text-align: center;
+    text-transform:capitalize;
+    
+}
+.div1bg{
+    background-color: dimgray;
+    padding: 20px;
+    padding-right: 0;
+    border-bottom: cadetblue solid 5px;
+    margin-top: 0px;
+}
+*{
+    background-color: black;
+}
+img{
+   width: 100%;
+    border-left: steelblue solid 5px;
+    border-right: slategray solid 15px;
+   
+}
+.div2bg{
+   color: beige;
+   margin-top:0px;
+   text-align: right;
+}
